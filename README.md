@@ -1,2 +1,2 @@
-# first-project
+# second-project
 # assembly
